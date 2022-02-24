@@ -36,3 +36,9 @@
 <img align="center" src="https://cdn.streamelements.com/uploads/5a21faa4-af40-4c57-9d2d-399339652c69.gif" height="400" width="850" > <br>
 </div>
   
+
+ ## Total de visitas no meu perfil 😜 <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Nathaliazero/count.svg" />
+ </p>
+
